@@ -1,0 +1,29 @@
+h1,
+h2 {
+    color: goldenrod;
+}
+
+ul,
+li {
+    color: blueviolet;
+}
+
+.item {
+    color: red
+}
+
+ul li {
+    color: gainsboro;
+}
+
+#list-item {
+    color: rebeccapurple
+}
+
+.item {
+    color: blueviolet
+}
+
+input[type="email"] {
+    background-color: orange;
+}
